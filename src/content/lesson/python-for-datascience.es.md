@@ -126,10 +126,10 @@ set_fruits = {"manzana", "banana", "cereza"}
 Representa una colección no ordenada de pares clave-valor.
 ```py
 dict_person = {
-    "nombre": "Juan",
-    "edad": 25,
-    "altura": 1.80,
-    "es_estudiante": True
+    "nombre": "Juan";
+    "edad": 25;
+    "altura": 1.80;
+    "es_estudiante": True;
 }
 ```
 
